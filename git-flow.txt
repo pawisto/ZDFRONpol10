@@ -1,0 +1,10 @@
+01) git checkout -b "branch-name"
+02) Add/edit/remove
+03) git add .
+04) git commit -m "message"
+05) git push (set upstream)
+06) Repeat steps 2-5 (push without upstream)
+07) New PR (pull request)
+08) Merge   
+09) git checkout "main-branch"
+10) git pull
